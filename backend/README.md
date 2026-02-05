@@ -33,7 +33,7 @@ A sophisticated search and ranking engine for an electronics e-commerce platform
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone "https://github.com/tusharjaiswal28/ecommerce-search.git"
 cd backend
 ```
 
